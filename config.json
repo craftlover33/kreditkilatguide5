@@ -1,0 +1,195 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "redirect_url": "",
+      "privacy_policy_url": "https://sites.google.com/view/solodroid-guide-privacy-policy",
+	  "email_feedback_and_report": "yourmail@gmail.com",
+      "webview_cache": true,
+      "post_list_in_large_style": false,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "youtube_api_key": "0",
+      "base64_license_key": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "fan",
+      "backup_ad": "none",
+      "admob_banner_unit_id": "0",
+      "admob_interstitial_unit_id": "0",
+      "admob_native_unit_id": "0",
+      "admob_app_open_unit_id": "0",
+      "ad_manager_banner_unit_id": "0",
+      "ad_manager_interstitial_unit_id": "0",
+      "ad_manager_native_unit_id": "0",
+      "ad_manager_app_open_unit_id": "0",
+      "fan_banner_unit_id": "0",
+      "fan_interstitial_unit_id": "0",
+      "fan_native_unit_id": "0",
+      "startapp_app_id": "0",
+      "unity_game_id": "0",
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "0",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "interstitial_ad_interval": 3,
+      "native_ad_index": 1,
+      "native_ad_interval": 8,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": false,
+      "show_banner_ad_post_details": false,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_app_open_ad": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "KreditKilat",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/kreditkilatguide5%2Ficon.png?alt=media&token=31304d3d-17cd-411c-9171-5e599bd01284"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "category": "KreditKilat",
+      "title": "Apa itu pinjaman online?",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/kreditkilatguide5%2Ficon.png?alt=media&token=31304d3d-17cd-411c-9171-5e599bd01284",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/kreditkilatguide5%2Fapa%20itu%20pinjaman%20online.html?alt=media&token=4e0b2e70-393d-45e2-b899-ca8b65a0e6ce",
+      "video": ""
+    },
+	{
+      "id": 2,
+      "category": "KreditKilat",
+      "title": "Jenis-jenis pinjaman online",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/kreditkilatguide5%2Ficon.png?alt=media&token=31304d3d-17cd-411c-9171-5e599bd01284",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/kreditkilatguide5%2Fjenis-jenis%20pinjaman%20online.html?alt=media&token=048bade9-12fa-4cf7-97d7-3fd21ae38dac",
+      "video": ""
+    },
+    {
+      "id": 3,
+      "category": "KreditKilat",
+      "title": "Tenor pinjaman online",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/kreditkilatguide5%2Ficon.png?alt=media&token=31304d3d-17cd-411c-9171-5e599bd01284",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/kreditkilatguide5%2FTenor%20pinjaman%20online.html?alt=media&token=97c6e076-e812-4f07-9812-7c4bd7c90a36",
+      "video": ""
+    },
+    {
+      "id": 4,
+      "category": "KreditKilat",
+      "title": "Manfaat pinjaman online",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/kreditkilatguide5%2Ficon.png?alt=media&token=31304d3d-17cd-411c-9171-5e599bd01284",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/kreditkilatguide5%2FManfaat%20pinjaman%20online.html?alt=media&token=58ee0523-9f93-45d9-854e-ab924133db00",
+      "video": ""
+    },
+    {
+      "id": 5,
+      "category": "KreditKilat",
+      "title": "Hati-hati pinjaman online ilegal",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/kreditkilatguide5%2Ficon.png?alt=media&token=31304d3d-17cd-411c-9171-5e599bd01284",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/kreditkilatguide5%2FHati-hati%20pinjaman%20online%20ilegal.html?alt=media&token=7abefc6c-9d2e-448d-84ea-e677609db1aa",
+      "video": ""
+    },
+    {
+      "id": 6,
+      "category": "KreditKilat",
+      "title": "Memilih Pinjaman Online Legal",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/kreditkilatguide5%2Ficon.png?alt=media&token=31304d3d-17cd-411c-9171-5e599bd01284",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/kreditkilatguide5%2FMemilih%20Pinjaman%20Online%20Legal.html?alt=media&token=231512f4-52f4-4715-bbb0-38a8093a9bc1",
+      "video": ""
+    },
+	{
+      "id": 7,
+      "category": "KreditKilat",
+      "title": "Syarat Pinjaman Online",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/kreditkilatguide5%2Ficon.png?alt=media&token=31304d3d-17cd-411c-9171-5e599bd01284",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/kreditkilatguide5%2FSyarat%20Pinjaman%20Online.html?alt=media&token=91ec14cd-8db5-44f0-80d4-60eb7ee612d7",
+      "video": ""
+    },
+    {
+      "id": 8,
+      "category": "KreditKilat",
+      "title": "Memilih pinjaman online terbaik",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/kreditkilatguide5%2Ficon.png?alt=media&token=31304d3d-17cd-411c-9171-5e599bd01284",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/kreditkilatguide5%2FMemilih%20pinjaman%20online%20terbaik.html?alt=media&token=86ffe62b-8d4a-4835-80b7-483870af734e",
+      "video": ""
+    },
+    {
+      "id": 9,
+      "category": "KreditKilat",
+      "title": "Tips Pinjaman Online Cepat Cair",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/kreditkilatguide5%2Ficon.png?alt=media&token=31304d3d-17cd-411c-9171-5e599bd01284",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/kreditkilatguide5%2FTips%20Pinjaman%20Online%20Cepat%20cair.html?alt=media&token=73857921-56e2-43a0-b3ad-a8ff4471facd",
+      "video": ""
+    },
+    {
+      "id": 10,
+      "category": "KreditKilat",
+      "title": "Solusi Pinjaman Online yang Gagal",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/kreditkilatguide5%2Ficon.png?alt=media&token=31304d3d-17cd-411c-9171-5e599bd01284",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/kreditkilatguide5%2FSolusi%20Pinjaman%20Online%20yang%20Gagal.html?alt=media&token=723265f0-3f90-4e04-af9a-45ba822ba9c6",
+      "video": ""
+    }
+  ],
+  "more_apps": [
+    {
+      "id": 1,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 2,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 3,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 4,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 5,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 6,
+      "title": "",
+      "image": "",
+      "url": ""
+    }
+  ]
+}
